@@ -7,4 +7,4 @@ Servono i moduli seguenti
 * numpy 
 * matplotlib
 * pandas
-* scipy import stats
+* scipy 
